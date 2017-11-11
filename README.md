@@ -6,8 +6,17 @@
 
 You'll need to install a local copy of mysql.
 
+Then log in to the database `mysql -u root` and create the following database:
+
+```
+create database bitcoin_saver;
+```
+
 You'll also need to create a .env file (it is excluded by .gitignore):
-`cp .env.example .env`
+```
+cp .env.example .env
+```
+
 
 And then use this database configuration:
 ```
