@@ -28,3 +28,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
+Afterwards, you'll need to run the database migration:
+```
+php artisan migrate
+```
