@@ -1,3 +1,3 @@
 # mybitcoinsaver
 
-![Preview](https://drive.google.com/file/d/12cM8RkBn8X0MUfROK-9yHzk4MsuGrFEs/view?usp=sharing)
+![Preview](https://lh4.googleusercontent.com/PD8a5-P4aUmDojA93HdCKiIQLwJkntyjvVtK7Ycsfo9VOhUsz0z3gN5vKQvhSDnyKtMMkbZVbAqaBok4lO4D=w3028-h1614-rw)
