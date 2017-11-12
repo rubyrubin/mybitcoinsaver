@@ -32,3 +32,13 @@ Afterwards, you'll need to run the database migration:
 ```
 php artisan migrate
 ```
+
+I followed this guide to getting set up quickly:
+
+https://laravel-news.com/your-first-laravel-application
+
+It includes using Valet:
+
+https://laravel.com/docs/5.4/valet
+
+Which configures a webserver, etc. for you very easily.
